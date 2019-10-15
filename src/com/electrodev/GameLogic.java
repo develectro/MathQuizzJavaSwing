@@ -20,8 +20,8 @@ protected static int finalAnsView;
 
    GameLogic(){
    Random r = new Random();
-   this.x =r.nextInt(10)+1;// الرقم الأول الذي يظهر للاعب
-   this.y= r.nextInt(10)+1;//الرقم الثاني الذي يظهر للاعب
+   this.x = r.nextInt(10)+1;// الرقم الأول الذي يظهر للاعب
+   this.y = r.nextInt(10)+1;//الرقم الثاني الذي يظهر للاعب
    actualAns = x+y; //الإجابة الصحيحة
 
     wrongAns[0]= actualAns+1;
