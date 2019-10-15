@@ -8,7 +8,6 @@ import java.awt.image.BufferedImage;
 import java.io.File;
 import java.io.IOException;
 
-//Issue need to be fixed: when click yes a new window will open instead of the same window!
 
 // this class invoked inside noFun() method.
 
