@@ -16,5 +16,8 @@ No installation is needed, just run the```MathQuizz_jar.jar```file and have fun.
 ```chmod 774 MathQuizz_jar.jar```
 :)
 
+## Credits:
+Special thanks and appreciation to [hozfia](https://github.com/hozfia) for his valuable tips.
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
