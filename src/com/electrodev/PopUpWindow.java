@@ -25,8 +25,8 @@ public class PopUpWindow extends JDialog{
         imagePanel.setBounds(20, 10,250,100);
 
         try {
-            //img1 = ImageIO.read(new File("")); //ImageIO constructor is private.
-            img1 = ImageIO.read(new File("/home/inspiron/IdeaProjects/res/GameOverLogoPNG.png"));
+             //ImageIO constructor is private.
+            img1 = ImageIO.read(new File("~/GameOverLogo.png"));
 
             JLabel label = new JLabel(new ImageIcon(img1));
             imagePanel.add(label); // one way to add image to JPanel is to use JLabel as a jug.
